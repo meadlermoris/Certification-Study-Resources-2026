@@ -120,4 +120,3 @@ Always rely on official documentation and authorized training resources.
 ## 🎯 Goal
 
 To provide a centralized and organized certification preparation hub for 2026 advanced technical exams.
-<meta name="google-site-verification" content="GKqusmHFxSCG28IDoLOHYjqbinTQZgd_QO2upO3bveQ" />
